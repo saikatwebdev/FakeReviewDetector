@@ -53,6 +53,3 @@ fake_review_detector/
 
 This app is a demo using synthetic data. For real-world applications, you'd need a large, labeled dataset of real and fake reviews.
 
-## License
-
-This project is licensed under the MIT License.
